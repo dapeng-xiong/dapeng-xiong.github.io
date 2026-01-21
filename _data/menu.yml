@@ -1,14 +1,12 @@
-- title: "About"
-  href: "/about/"
-  active: about
+- title: "Home"
 
-- title: "Blog"
-  href: "/blog/"
-  active: blog
+- title: "Publications"
+  href: "/publications/"
+  active: Publications
 
-- title: "CV"
-  href: "/cv/"
-  active: cv
+- title: "People"
+  href: "/people/"
+  active: People
 
 # - title: "For Students"
 #   href: "/for-students/"
@@ -18,13 +16,13 @@
 #     - subtitle: "Pi Sigma Alpha"
 #       subhref: "/for-students/pi-sigma-alpha/"
 
-- title: "Research"
-  href: "/research/"
-  active: research
-
 - title: "Teaching"
   href: "/teaching/"
-  active: teaching
+  active: Teaching
+
+- title: "Activities"
+  href: "/activities/"
+  active: Activities
 # subcategories:
 #    - subtitle: "POSC 1020 – Introduction to International Relations"
 #      subhref: "http://posc1020.svmiller.com"
@@ -37,20 +35,20 @@
     # - subtitle: "POST 8000 - Foundations of Social Science Research for Public Policy"
     #   subhref: "http://post8000.svmiller.com/"
 
-- title: "Miscelánea"
-  href: ""
-  active: miscelanea
-  subcategories:
-    - subtitle: "Article Summaries"
-      subhref: "/article-summaries/"
-    - subtitle: "Letters of Recommendation"
-      subhref: "/for-students/letters-of-recommendation/"
-    - subtitle: "{peacesciencer} Remote Data"
-      subhref: "/R/peacesciencer/"
-    - subtitle: "Presentations"
-      subhref: "/presentations/"
-    - subtitle: "We Should Really Be Citing These Things More"
-      subhref: "/things-we-really-should-be-citing/"
+# - title: "Miscelánea"
+#   href: ""
+#   active: miscelanea
+#   subcategories:
+#     - subtitle: "Article Summaries"
+#       subhref: "/article-summaries/"
+#     - subtitle: "Letters of Recommendation"
+#       subhref: "/for-students/letters-of-recommendation/"
+#     - subtitle: "{peacesciencer} Remote Data"
+#       subhref: "/R/peacesciencer/"
+#     - subtitle: "Presentations"
+#       subhref: "/presentations/"
+#     - subtitle: "We Should Really Be Citing These Things More"
+#       subhref: "/things-we-really-should-be-citing/"
     #- subtitle: "Clean USAID Greenbook Data (2014)"
     #   subhref: "/miscellany/clean-usaid-greenbook-data/"
     # - subtitle: "Journal of Peace Research *.bst File (2014)"
