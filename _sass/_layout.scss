@@ -230,7 +230,8 @@ html {
 }
 
 ul.listing {
-	list-style-type: none;
+/*	list-style-type: none;*/
+	list-style-type: disc;
 	margin-left: 0px;
 }
 
@@ -260,9 +261,10 @@ ul.listing li.listing-item a {
 /*------ archive type stuff ------ */
 
 ul#archive {
-       list-style-type: none;
-       margin: 0 0 1em 0;
-       padding: 0;
+/*	list-style-type: none;*/
+	list-style-type: disc;
+	margin: 0 0 1em 0;
+	padding: 0;
 }
 
 ul#archive li {
