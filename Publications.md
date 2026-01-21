@@ -10,7 +10,7 @@ active: Publications
 ### `#`：Equal Contribution, *：Corresponding Author
 #### 2026
 
-- Y Zhang, J Wu, Q Zhao, M Dong, J Deng, X Gao, K Hu, D Xiong*. Improving mutation pathogenicity prediction of metal-binding sites in proteins with a panoramic attention mechanism. Pattern Recognition, 2026, 169:1111935.
+-Improving mutation pathogenicity prediction of metal-binding sites in proteins with a panoramic attention mechanism. Yuan Zhang, Jiafeng Wu, Qiuye Zhao, Mingyuan Dong, Junsheng Deng, Xieping Gao, Kai Hu, Dapeng Xiong<sup>*</sup>. Pattern Recognition, 2026, 169:1111935.
 
   [2] D Xiong#, Y Qiu#, J Zhao#, Y Zhou#,D Lee#, S Gupta, M Torres, W Lu, S Liang, J J Kang, C Eng, J Loscalzo, F Cheng*, H Yu*. A structurally informed human protein–protein interactome reveals proteome-wide perturbations caused by disease mutations. Nature Biotechnology, 2025, 43:1510-1524.
 
