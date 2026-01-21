@@ -1,7 +1,8 @@
 .wp-caption {
-background-color: $su-sky20;
-text-align: center;
-border: 1px dotted $su-blue;
+	background-color: $su-sky20;
+	text-align: center;
+/*	border: 1px dotted $su-blue;*/
+	border: none;
 	font-size: 0.90em;
 	overflow: hidden;
 	position: relative;
