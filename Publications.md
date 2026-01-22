@@ -10,12 +10,8 @@ active: Publications
 
 ### #：Equal Contribution, *：Corresponding Author
 #### 2026
-<ul class="listing">
-    <li>**Improving mutation pathogenicity prediction of metal-binding sites...**</li>
-    <li>**A structurally informed human protein–protein interactome...**</li>
-    <li>Y Zhang, M Dong, J Deng, J Wu... PILOT: Deep Siamese network...</li>
-</ul>
-- **Improving mutation pathogenicity prediction of metal-binding sites in proteins with a panoramic attention mechanism.**
+
+. **Improving mutation pathogenicity prediction of metal-binding sites in proteins with a panoramic attention mechanism.**
   Yuan Zhang, Jiafeng Wu, Qiuye Zhao, Mingyuan Dong, Junsheng Deng, Xieping Gao, Kai Hu, **Dapeng Xiong<sup>*</sup>**. **Pattern Recognition**, 2026, 169:1111935.
   
 #### 2025
