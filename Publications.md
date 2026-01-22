@@ -13,19 +13,18 @@ active: Publications
 ## 2026
 <ul class='utlist'>
   <li>
-    <text style='color: #8080e2;font-weight: bold;'>Improving mutation pathogenicity prediction of metal-binding sites in proteins with a panoramic attention mechanism.    </text>
-    Yuan Zhang, Jiafeng Wu, Qiuye Zhao, Mingyuan Dong, Junsheng Deng, Xieping Gao, Kai Hu, <text style='font-weight: bold;'>Dapeng Xiong<sup>*</sup></text>.
+    <text class='text_title'>Improving mutation pathogenicity prediction of metal-binding sites in proteins with a panoramic attention mechanism.</text><br />
+    Yuan Zhang, Jiafeng Wu, Qiuye Zhao, Mingyuan Dong, Junsheng Deng, Xieping Gao, Kai Hu, <text class='text_bold'>Dapeng Xiong<sup>*</sup></text>.
     <br />
-   <bold></bold>Pattern Recognition</bold>, 2026, 169:1111935.
+   <text class='text_bold'>Pattern Recognition</text>, 2026, 169:1111935.
   </li>
-  <li>
-    **Improving mutation pathogenicity prediction of metal-binding sites in proteins with a panoramic attention mechanism.**
-    Yuan Zhang, Jiafeng Wu, Qiuye Zhao, Mingyuan Dong, Junsheng Deng, Xieping Gao, Kai Hu, **Dapeng Xiong<sup>*</sup>**. **Pattern Recognition**, 2026, 169:1111935.
+   <li>
+    <text class='text_title'>Improving mutation pathogenicity prediction of metal-binding sites in proteins with a panoramic attention mechanism.</text><br />
+    Yuan Zhang, Jiafeng Wu, Qiuye Zhao, Mingyuan Dong, Junsheng Deng, Xieping Gao, Kai Hu, <text class='text_bold'>Dapeng Xiong<sup>*</sup></text>.
+    <br />
+   <text class='text_bold'>Pattern Recognition</text>, 2026, 169:1111935.
   </li>
 </ul>
-+  **Improving mutation pathogenicity prediction of metal-binding sites in proteins with a panoramic attention mechanism.**
-  Yuan Zhang, Jiafeng Wu, Qiuye Zhao, Mingyuan Dong, Junsheng Deng, Xieping Gao, Kai Hu, **Dapeng Xiong<sup>*</sup>**. **Pattern Recognition**, 2026, 169:1111935.
-
 
 #### 2025
 - **A structurally informed human protein–protein interactome reveals proteome-wide perturbations caused by disease mutations.**
