@@ -9,13 +9,16 @@ active: Publications
 
 <text style="font-size: 18px;">#: Equal Contribution, *: Corresponding Author</text><br />
 
-<text class='text_title'>2026</text><br />
+<ul class='utlist'>
+  <li>
+    <text class='text_bold' style='font-size: 20px;'>2026</text>.
+  </li>
+</ul>
 
 <ul class='utlist'>
   <li>
     <text class='text_title'>Improving mutation pathogenicity prediction of metal-binding sites in proteins with a panoramic attention mechanism.</text><br />
-    Yuan Zhang, Jiafeng Wu, Qiuye Zhao, Mingyuan Dong, Junsheng Deng, Xieping Gao, Kai Hu, <text class='text_bold'>Dapeng Xiong<sup>*</sup></text>.
-    <br />
+    Yuan Zhang, Jiafeng Wu, Qiuye Zhao, Mingyuan Dong, Junsheng Deng, Xieping Gao, Kai Hu, <text class='text_bold'>Dapeng Xiong<sup>*</sup></text>.<br />
    <text class='text_bold'><i>Pattern Recognition</i></text>, 2026, 169:1111935.
   </li>
 </ul>
