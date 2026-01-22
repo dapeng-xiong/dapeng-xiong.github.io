@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Teaching
+title: ''
 permalink: /teaching/
-image: "edward-james-olmos-stand-deliver.jpg"
 active: Teaching
 ---
 
