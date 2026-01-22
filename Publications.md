@@ -11,10 +11,9 @@ active: Publications
 ### `#`：Equal Contribution,`*`：Corresponding Author
 
 ## 2026
-<ul>
-  <li> **Improving mutation pathogenicity prediction of metal-binding sites in proteins with a panoramic attention mechanism.**
-  Yuan Zhang, Jiafeng Wu, Qiuye Zhao, Mingyuan Dong, Junsheng Deng, Xieping Gao, Kai Hu, **Dapeng Xiong<sup>*</sup>**. **Pattern Recognition**, 2026, 169:1111935. </li>
-</ul>
+-  **Improving mutation pathogenicity prediction of metal-binding sites in proteins with a panoramic attention mechanism.**
+  Yuan Zhang, Jiafeng Wu, Qiuye Zhao, Mingyuan Dong, Junsheng Deng, Xieping Gao, Kai Hu, **Dapeng Xiong<sup>*</sup>**. **Pattern Recognition**, 2026, 169:1111935.
+
 
 #### 2025
  **A structurally informed human protein–protein interactome reveals proteome-wide perturbations caused by disease mutations.**
