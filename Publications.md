@@ -36,7 +36,7 @@ active: Publications
   <li>
     <text class='text_title'>PyPropel: a Python-based tool for efficiently processing and characterising protein data.</text><br />
     Jianfeng Sun<sup>*</sup>, Jinlong Ru, Adam P. Cribbs, <text class='text_bold'>Dapeng Xiong<sup>*</sup></text>.<br />
-   <text class='text_bold'><i>BMC Bioinformatics</i></text>, 2025, 26:70.
+   <text class='text_bold'><i>BMC Bioinformatics</i></text>, 2025, 26:70. [<a href='https://link.springer.com/article/10.1186/s12859-025-06079-3'>link</a>]
   </li>
   
 </ul>
