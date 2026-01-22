@@ -9,7 +9,7 @@ active: Publications
 
 <text style="font-size: 18px;">#: Equal Contribution, *: Corresponding Author</text><br />
 
-<text class='text_title' style='font-size: 20px;'>2026</text><br />
+<text class='text_title'>2026</text><br />
 
 <ul class='utlist'>
   <li>
