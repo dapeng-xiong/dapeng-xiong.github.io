@@ -27,6 +27,21 @@ active: Publications
 </ul>
 
 #### 2025
+<ul class='utlist'>
+  <li>
+    <text class='text_title'>A structurally informed human protein–protein interactome reveals proteome-wide perturbations caused by disease mutations.</text><br />
+    <text class='text_bold'>Dapeng Xiong<sup>#</sup></text>, Yunguang Qiu<sup>#</sup>, Junfei Zhao<sup>#</sup>, Yadi Zhou<sup>#</sup>, Dongjin Lee<sup>#</sup>, Shobhita Gupta, Mateo Torres, Weiqiang Lu, Siqi Liang, Jin Joo Kang, Charis Eng, Joseph Loscalzo, Feixiong Cheng<sup>*</sup>, Haiyuan Yu<sup>*</sup>.<br />
+    <text class='text_bold'>Nature Biotechnology/text>, 2025, 43:1510-1524.
+  </li>
+   <li>
+    <text class='text_title'>Improving mutation pathogenicity prediction of metal-binding sites in proteins with a panoramic attention mechanism.</text><br />
+    Yuan Zhang, Jiafeng Wu, Qiuye Zhao, Mingyuan Dong, Junsheng Deng, Xieping Gao, Kai Hu, <text class='text_bold'>Dapeng Xiong<sup>*</sup></text>.<br />
+   <text class='text_bold'>Pattern Recognition</text>, 2026, 169:1111935.
+  </li>
+</ul>
+
+
+
 - **A structurally informed human protein–protein interactome reveals proteome-wide perturbations caused by disease mutations.**
   **Dapeng Xiong<sup>#</sup>**, Yunguang Qiu<sup>#</sup>, Junfei Zhao<sup>#</sup>, Yadi Zhou<sup>#</sup>, Dongjin Lee<sup>#</sup>, Shobhita Gupta, Mateo Torres, Weiqiang Lu, Siqi Liang, Jin Joo Kang, Charis Eng, Joseph Loscalzo, Feixiong Cheng<sup>\*</sup>, Haiyuan Yu<sup>\*</sup>. **Nature Biotechnology**, 2025, 43:1510-1524.
 
