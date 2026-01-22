@@ -1,6 +1,6 @@
 - title: "Home"
   href: "/"
-  active: Home
+  active: ''
 
 - title: "Publications"
   href: "/publications/"
