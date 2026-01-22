@@ -9,7 +9,8 @@ active: Publications
 
 <text style="font-size: 18px;">#: Equal Contribution, *: Corresponding Author</text>
 
-## 2026
+<text class='text_title' style='font-size: 20px;'>2026</text><br />
+
 <ul class='utlist'>
   <li>
     <text class='text_title'>Improving mutation pathogenicity prediction of metal-binding sites in proteins with a panoramic attention mechanism.</text><br />
