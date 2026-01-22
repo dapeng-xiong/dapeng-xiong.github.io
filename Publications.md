@@ -40,3 +40,21 @@ active: Publications
   </li>
   
 </ul>
+
+## 2024
+
+<ul class='utlist'>
+  <li>
+    <text class='text_title'>Graph masked self-distillation learning for prediction of mutation impact on protein–protein interactions.</text><br />
+    <text class='text_bold'>Yuan Zhang, Mingyuan Dong, Junsheng Deng, Jiafeng Wu, Qiuye Zhao<sup>*</sup>, Xieping Gao<sup>*</sup>, <text class='text_bold'>Dapeng Xiong<sup>*</sup></text>.<br />
+    <text class='text_bold'><i>Communications Biology</i></text>, 2024, 7:1400. [<a href='https://www.nature.com/articles/s42003-024-07066-9' target='_blank'>link</a>]
+  </li>
+
+  <li>
+    <text class='text_title'>PLMC: Language model of protein sequences enhances protein crystallization prediction.</text><br />
+    <text class='text_bold'>Dapeng Xiong<sup>*</sup></text>, Kaicheng U, Jianfeng Sun<sup>*</sup>, Adam P. Cribbs.<br />
+    <text class='text_bold'><i>Interdisciplinary Sciences: Computational Life Sciences</i></text>, 2024, 16:802-813. [<a href='https://link.springer.com/article/10.1007/s12539-024-00639-6' target='_blank'>link</a>]
+  </li>
+  
+</ul>
+
