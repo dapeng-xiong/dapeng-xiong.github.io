@@ -46,7 +46,7 @@ active: Publications
 <ul class='utlist'>
   <li>
     <text class='text_title'>Graph masked self-distillation learning for prediction of mutation impact on protein–protein interactions.</text><br />
-    <text class='text_bold'>Yuan Zhang, Mingyuan Dong, Junsheng Deng, Jiafeng Wu, Qiuye Zhao<sup>*</sup>, Xieping Gao<sup>*</sup>, <text class='text_bold'>Dapeng Xiong<sup>*</sup></text>.<br />
+    Yuan Zhang, Mingyuan Dong, Junsheng Deng, Jiafeng Wu, Qiuye Zhao<sup>*</sup>, Xieping Gao<sup>*</sup>, <text class='text_bold'>Dapeng Xiong<sup>*</sup></text>.<br />
     <text class='text_bold'><i>Communications Biology</i></text>, 2024, 7:1400. [<a href='https://www.nature.com/articles/s42003-024-07066-9' target='_blank'>link</a>]
   </li>
 
