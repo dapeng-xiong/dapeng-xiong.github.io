@@ -5,7 +5,7 @@ permalink: /publications/
 active: Publications
 ---
 
-<hr style="clear:both;visibility: hidden;" />  
+
 
 <text style="font-size: 18px; margin-bottom: 6px"><sup>#</sup>: Equal Contribution, <sup>*</sup>: Corresponding Author</text><br />
 
