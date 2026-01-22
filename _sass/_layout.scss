@@ -330,7 +330,7 @@ article ul.utlist > li:before {
     background: #000;
     height: 6px;
     border-radius: 50%;
-    margin-top: 0px;
+    margin-top: 5px;
 
 }
 
@@ -342,7 +342,7 @@ article ul.utlist .text_bold{
 }
 article ul.utlist .text_title{
 	font-weight: bold;
-	color: #00BFFF;
+	color: red;
 }
 
 article ul#archive > li:before {
