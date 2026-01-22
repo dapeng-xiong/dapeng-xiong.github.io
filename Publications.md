@@ -7,7 +7,7 @@ active: Publications
 
 <hr style="clear:both;visibility: hidden;" />  
 
-<text style="font-size: 18px; margin-bottom: 6px">#: Equal Contribution, *: Corresponding Author</text><br />
+<text style="font-size: 18px; margin-bottom: 6px"><sup>#</sup>: Equal Contribution, <sup>*</sup>: Corresponding Author</text><br />
 
 <text style="font-size: 22px; font-weight: bold; margin-top: 0px; margin-bottom: 100px">2026</text><br />
 
