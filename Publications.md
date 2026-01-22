@@ -34,9 +34,9 @@ active: Publications
     <text class='text_bold'><i>Nature Biotechnology</i></text>, 2025, 43:1510-1524.
   </li>
    <li>
-    <text class='text_title'>Improving mutation pathogenicity prediction of metal-binding sites in proteins with a panoramic attention mechanism.</text><br />
-    Yuan Zhang, Jiafeng Wu, Qiuye Zhao, Mingyuan Dong, Junsheng Deng, Xieping Gao, Kai Hu, <text class='text_bold'>Dapeng Xiong<sup>*</sup></text>.<br />
-   <text class='text_bold'>Pattern Recognition</text>, 2026, 169:1111935.
+    <text class='text_title'>PILOT: Deep Siamese network with hybrid attention improves prediction of mutation impact on protein stability.</text><br />
+    Yuan Zhang, Junsheng Deng, Mingyuan Dong, Jiafeng Wu, Qiuye Zhao<sup>*</sup>, Xieping Gao<sup>*</sup>, <text class='text_bold'>Dapeng Xiong<sup>*</sup></text>.<br />
+   <text class='text_bold'>Neural Networks</text>, 2025, 188:107476.
   </li>
 </ul>
 
