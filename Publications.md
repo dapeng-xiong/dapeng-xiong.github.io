@@ -7,9 +7,9 @@ active: Publications
 
 <hr style="clear:both;visibility: hidden;" />  
 
-<text style="font-size: 18px;">#: Equal Contribution, *: Corresponding Author</text><br />
+<text style="font-size: 18px; margin-bottom: 6px">#: Equal Contribution, *: Corresponding Author</text><br />
 
-<text style="font-size: 22px; font-weight: bold; margin-top: 1px">2026</text><br />
+<text style="font-size: 22px; font-weight: bold; margin-bottom: 1px">2026</text><br />
 
 <ul class='utlist'>
   <li>
@@ -36,7 +36,7 @@ active: Publications
   <li>
     <text class='text_title'>PyPropel: a Python-based tool for efficiently processing and characterising protein data.</text><br />
     Jianfeng Sun<sup>*</sup>, Jinlong Ru, Adam P. Cribbs, <text class='text_bold'>Dapeng Xiong<sup>*</sup></text>.<br />
-   <text class='text_bold'><i>BMC Bioinformatics</i></text>, 2025, 26:70. [<a href='https://link.springer.com/article/10.1186/s12859-025-06079-3'>link</a>]
+   <text class='text_bold'><i>BMC Bioinformatics</i></text>, 2025, 26:70. [<a href='https://link.springer.com/article/10.1186/s12859-025-06079-3' target=’_blank‘>link</a>]
   </li>
   
 </ul>
