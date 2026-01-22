@@ -7,8 +7,7 @@ active: Publications
 
 <hr style="clear:both;visibility: hidden;" />  
 
-
-`#`：Equal Contribution,`*`：Corresponding Author
+<text style="font-size: 18px;">#: Equal Contribution, *: Corresponding Author</text>
 
 ## 2026
 <ul class='utlist'>
