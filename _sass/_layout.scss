@@ -322,6 +322,18 @@ article ul > li:before {
   margin-left: -1.1em; 
 }
 
+article ul.utlist > li:before {
+    content: "";
+    width: 6px;
+    position: absolute;
+    margin-left: -1.1em;
+    background: #000;
+    height: 6px;
+    border-radius: 50%;
+    margin-top: 6px;
+
+}
+
 article ul#archive > li:before {
   list-style-type: none;
   content: none;
