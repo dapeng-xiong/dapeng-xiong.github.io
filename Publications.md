@@ -38,7 +38,6 @@ active: Publications
     Jianfeng Sun<sup>*</sup>, Jinlong Ru, Adam P. Cribbs, <text class='text_bold'>Dapeng Xiong<sup>*</sup></text>.<br />
    <text class='text_bold'><i>BMC Bioinformatics</i></text>, 2025, 26:70. [<a href='https://link.springer.com/article/10.1186/s12859-025-06079-3' target='_blank'>link</a>]
   </li>
-  
 </ul>
 
 ## 2024
@@ -55,6 +54,7 @@ active: Publications
     <text class='text_bold'>Dapeng Xiong<sup>*</sup></text>, Kaicheng U, Jianfeng Sun<sup>*</sup>, Adam P. Cribbs.<br />
     <text class='text_bold'><i>Interdisciplinary Sciences: Computational Life Sciences</i></text>, 2024, 16:802-813. [<a href='https://link.springer.com/article/10.1007/s12539-024-00639-6' target='_blank'>link</a>]
   </li>
+</ul>
 
 ## 2023
 
@@ -76,8 +76,9 @@ active: Publications
     <text class='text_bold'>Kai Hu, Xiang Zhang, Dongjin Lee, <text class='text_bold'>Dapeng Xiong</text>, Yuan Zhang<sup>*</sup>, Xieping Gao<sup>*</sup>.<br />
     <text class='text_bold'><i>IEEE Journal of Biomedical and Health Informatics</i></text>, 2023, 27(9):4421-4432. [<a href='https://ieeexplore.ieee.org/abstract/document/10149315' target='_blank'>link</a>]
   </li>
-
-  ## 2022
+</ul>
+      
+## 2022
 
 <ul class='utlist'>
   <li>
@@ -97,3 +98,4 @@ active: Publications
     <text class='text_bold'><text class='text_bold'>Dapeng Xiong<sup>#</sup></text>, Dongjin Lee<sup>#</sup>, Le Li<sup>#</sup>, Qiuye Zhao<sup>#</sup>, Haiyuan Yu<sup>*</sup>.<br />
     <text class='text_bold'><i>Current Opinion in Structural Biology</i></text>, 2022, 72:219-225. [<a href='https://www.sciencedirect.com/science/article/abs/pii/S0959440X21001615' target='_blank'>link</a>]
   </li>
+</ul>
