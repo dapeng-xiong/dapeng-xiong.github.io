@@ -55,6 +55,45 @@ active: Publications
     <text class='text_bold'>Dapeng Xiong<sup>*</sup></text>, Kaicheng U, Jianfeng Sun<sup>*</sup>, Adam P. Cribbs.<br />
     <text class='text_bold'><i>Interdisciplinary Sciences: Computational Life Sciences</i></text>, 2024, 16:802-813. [<a href='https://link.springer.com/article/10.1007/s12539-024-00639-6' target='_blank'>link</a>]
   </li>
-  
-</ul>
 
+## 2023
+
+<ul class='utlist'>
+  <li>
+    <text class='text_title'>Polyp segmentation with distraction separation.</text><br />
+    Tongtong Liu<sup>#</sup>, Xiongjun Ye<sup>#</sup>, Kai Hu, <text class='text_bold'>Dapeng Xiong</text>, Yuan Zhang<sup>*</sup>, Xuanya Li, Xieping Gao<sup>*</sup>.<br />
+    <text class='text_bold'><i>Expert Systems with Applications</i></text>, 2023, 228:120434. [<a href='https://www.sciencedirect.com/science/article/abs/pii/S0957417423009363' target='_blank'>link</a>]
+  </li>
+
+  <li>
+    <text class='text_title'>Small molecule-mediated targeting of microRNAs for drug discovery: Experiments, computational techniques, and disease implications.</text><br />
+    Jianfeng Sun<sup>#*</sup>, Miaoer Xu<sup>#</sup>, Jinlong Ru, Anna James-Bott, <text class='text_bold'>Dapeng Xiong</text>, Xia Wang<sup>*</sup>, Adam P Cribbs<sup>*</sup>.<br />
+    <text class='text_bold'><i>European Journal of Medicinal Chemistry</i></text>, 2023, 257:115500. [<a href='https://www.sciencedirect.com/science/article/pii/S022352342300466X' target='_blank'>link</a>]
+  </li>
+
+  <li>
+    <text class='text_title'>Boundary-guided and Region-aware Network with Global Scale-adaptive for Accurate Segmentation of Breast Tumors in Ultrasound Images.</text><br />
+    <text class='text_bold'>Kai Hu, Xiang Zhang, Dongjin Lee, <text class='text_bold'>Dapeng Xiong</text>, Yuan Zhang<sup>*</sup>, Xieping Gao<sup>*</sup>.<br />
+    <text class='text_bold'><i>IEEE Journal of Biomedical and Health Informatics</i></text>, 2023, 27(9):4421-4432. [<a href='https://ieeexplore.ieee.org/abstract/document/10149315' target='_blank'>link</a>]
+  </li>
+
+  ## 2022
+
+<ul class='utlist'>
+  <li>
+    <text class='text_title'>AS-Net: Attention Synergy Network for skin lesion segmentation.</text><br />
+    Kai Hu, Jing Lu, Dongjin Lee, Dapeng Xiong, Zhineng Chen<sup>*</sup>.<br />
+    <text class='text_bold'><i>Expert Systems with Applications</i></text>, 2022, 201:117112. [<a href='https://www.sciencedirect.com/science/article/abs/pii/S0957417422005139' target='_blank'>link</a>]
+  </li>
+
+  <li>
+    <text class='text_title'>Deep learning methods for 3D structural proteome and interactome modeling.</text><br />
+    Dongjin Lee<sup>#</sup>, <text class='text_bold'>Dapeng Xiong<sup>#</sup></text>, Shayne Wierbowski<sup>#</sup>, Le Li<sup>#</sup>, Siqi Liang<sup>#</sup>, Haiyuan Yu<sup>*</sup>.<br />
+    <text class='text_bold'><i>Current Opinion in Structural Biology</i></text>, 2022, 73:102329. [<a href='https://www.sciencedirect.com/science/article/abs/pii/S0959440X22000021' target='_blank'>link</a>]
+  </li>
+
+  <li>
+    <text class='text_title'>Implications of disease-related mutations at protein–protein interfaces.</text><br />
+    <text class='text_bold'><text class='text_bold'>Dapeng Xiong<sup>#</sup></text>, Dongjin Lee<sup>#</sup>, Le Li<sup>#</sup>, Qiuye Zhao<sup>#</sup>, Haiyuan Yu<sup>*</sup>.<br />
+    <text class='text_bold'><i>Current Opinion in Structural Biology</i></text>, 2022, 72:219-225. [<a href='https://www.sciencedirect.com/science/article/abs/pii/S0959440X21001615' target='_blank'>link</a>]
+  </li>
