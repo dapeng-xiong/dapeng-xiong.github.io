@@ -73,7 +73,7 @@ active: Publications
 
   <li>
     <text class='text_title'>Boundary-guided and Region-aware Network with Global Scale-adaptive for Accurate Segmentation of Breast Tumors in Ultrasound Images.</text><br />
-    <text class='text_bold'>Kai Hu, Xiang Zhang, Dongjin Lee, <text class='text_bold'>Dapeng Xiong</text>, Yuan Zhang<sup>*</sup>, Xieping Gao<sup>*</sup>.<br />
+    Kai Hu, Xiang Zhang, Dongjin Lee, <text class='text_bold'>Dapeng Xiong</text>, Yuan Zhang<sup>*</sup>, Xieping Gao<sup>*</sup>.<br />
     <text class='text_bold'><i>IEEE Journal of Biomedical and Health Informatics</i></text>, 2023, 27(9):4421-4432. [<a href='https://ieeexplore.ieee.org/abstract/document/10149315' target='_blank'>link</a>]
   </li>
 </ul>
