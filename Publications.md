@@ -83,7 +83,7 @@ active: Publications
 <ul class='utlist'>
   <li>
     <text class='text_title'>AS-Net: Attention Synergy Network for skin lesion segmentation.</text><br />
-    Kai Hu, Jing Lu, Dongjin Lee, Dapeng Xiong, Zhineng Chen<sup>*</sup>.<br />
+    Kai Hu, Jing Lu, Dongjin Lee, <text class='text_bold'>Dapeng Xiong</text>, Zhineng Chen<sup>*</sup>.<br />
     <text class='text_bold'><i>Expert Systems with Applications</i></text>, 2022, 201:117112. [<a href='https://www.sciencedirect.com/science/article/abs/pii/S0957417422005139' target='_blank'>link</a>]
   </li>
 
@@ -95,7 +95,7 @@ active: Publications
 
   <li>
     <text class='text_title'>Implications of disease-related mutations at protein–protein interfaces.</text><br />
-    <text class='text_bold'><text class='text_bold'>Dapeng Xiong<sup>#</sup></text>, Dongjin Lee<sup>#</sup>, Le Li<sup>#</sup>, Qiuye Zhao<sup>#</sup>, Haiyuan Yu<sup>*</sup>.<br />
+    <text class='text_bold'>Dapeng Xiong<sup>#</sup></text>, Dongjin Lee<sup>#</sup>, Le Li<sup>#</sup>, Qiuye Zhao<sup>#</sup>, Haiyuan Yu<sup>*</sup>.<br />
     <text class='text_bold'><i>Current Opinion in Structural Biology</i></text>, 2022, 72:219-225. [<a href='https://www.sciencedirect.com/science/article/abs/pii/S0959440X21001615' target='_blank'>link</a>]
   </li>
 </ul>
