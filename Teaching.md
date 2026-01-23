@@ -5,5 +5,9 @@ permalink: /teaching/
 active: Teaching
 ---
 
-<hr style="clear:both;visibility: visible;" />  
 
+<ul class='utlist'>
+  <li>
+    <text style='font-size: 22px'>Artificial Intelligence Foundations for Biomedical Big Data, Fall 2025</text><br />
+  </li>
+</ul>
