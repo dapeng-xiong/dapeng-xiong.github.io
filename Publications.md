@@ -135,3 +135,39 @@ active: Publications
     <text class='text_bold'><i>Bioinformatics</i></text>, 2017, 33(17): 2675-2683.
   </li>
 </ul>
+
+## 2015
+
+<ul class='utlist'>
+  <li>
+    <a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/prot.24806' target='_blank'><text class='text_title'>RBRIdent: an algorithm for improved identification of RNA-binding residues in proteins from primary sequences.</text></a><br />
+    <text class='text_bold'>Dapeng Xiong</text>, Jianyang Zeng, Haipeng Gong<sup>*</sup>.<br />
+    <text class='text_bold'><i>Proteins: Structure, Function and Bioinformatics</i></text>, 2015, 83(6): 1068-1077.
+  </li>
+</ul>
+
+## 2014
+
+<ul class='utlist'>
+  <li>
+    <a href='https://ieeexplore.ieee.org/abstract/document/6826556' target='_blank'><text class='text_title'>ProMT: effective human promoter prediction using markov chain model based on DNA structural properties.</text></a><br />
+    <text class='text_bold'>Dapeng Xiong</text>, Rongjie Liu, Fen Xiao, Xieping Gao<sup>*</sup>.<br />
+    <text class='text_bold'><i>IEEE Transactions on NanoBioscience</i></text>, 2014, 13(4): 374-383.
+  </li>
+</ul>
+
+## 2012
+
+<ul class='utlist'>
+  <li>
+    <a href='https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0043126' target='_blank'><text class='text_title'>Towards a better detection of horizontally transferred genes by combining unusual properties effectively.</text></a><br />
+    <text class='text_bold'>Dapeng Xiong</text>, Fen Xiao, Li Liu, Kai Hu, Yanping Tan, Shunmin He<sup>*</sup>, Xieping Gao<sup>*</sup>.<br />
+    <text class='text_bold'><i>PLoS ONE</i></text>, 2012, 7(8): e43126.
+  </li>
+
+  <li>
+    <a href='https://ieeexplore.ieee.org/abstract/document/6294744' target='_blank'><text class='text_title'>A novel image segmentation algorithm based on Hidden Markov Random Field model and Finite Mixture Model parameter estimation.</text></a><br />
+    Kai Hu<sup>*</sup>, Guangyu Tang, <text class='text_bold'>Dapeng Xiong</text>, Quan Qiu.<br />
+    <text class='text_bold'><i>Proceedings of the 2012 International Conference on Wavelet Analysis and Pattern Recognition</i></text>, Xian, July 15-17, 2012.
+  </li>
+</ul>
