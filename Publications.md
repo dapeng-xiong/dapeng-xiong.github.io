@@ -1,4 +1,4 @@
-<img width="468" height="13" alt="image" src="https://github.com/user-attachments/assets/410ea3ae-7dd4-484c-a392-4b67b46f4e40" />---
+---
 layout: page
 title: ''
 permalink: /publications/
@@ -120,4 +120,18 @@ active: Publications
   </li>
 </ul>
 
+## 2017
 
+<ul class='utlist'>
+  <li>
+    <a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/prot.25370' target='_blank'><text class='text_title'>Predicting the helix-helix interactions from correlated residue mutations.</text></a><br />
+    <text class='text_bold'>Dapeng Xiong<sup>#</sup></text>, Wenzhi Mao<sup>#</sup>, Haipeng Gong<sup>*</sup>.<br />
+    <text class='text_bold'><i>Proteins: Structure, Function and Bioinformatics</i></text>, 2017, 85(12): 2162-2169.
+  </li>
+
+  <li>
+    <a href='https://academic.oup.com/bioinformatics/article/33/17/2675/3791808?login=true' target='_blank'><text class='text_title'>A deep learning framework for improving long-range residue-residue contact prediction using a hierarchical strategy.</text></a><br />
+    <text class='text_bold'>Dapeng Xiong<sup>#</sup></text>, Jianyang Zeng<sup>*</sup>, Haipeng Gong<sup>*</sup>.<br />
+    <text class='text_bold'><i>Bioinformatics</i></text>, 2017, 33(17): 2675-2683.
+  </li>
+</ul>
