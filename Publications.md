@@ -1,4 +1,4 @@
----
+<img width="468" height="13" alt="image" src="https://github.com/user-attachments/assets/410ea3ae-7dd4-484c-a392-4b67b46f4e40" />---
 layout: page
 title: ''
 permalink: /publications/
@@ -97,5 +97,15 @@ active: Publications
     <a href='https://www.sciencedirect.com/science/article/abs/pii/S0959440X21001615' target='_blank'><text class='text_title'>Implications of disease-related mutations at protein–protein interfaces.</text></a><br />
     <text class='text_bold'>Dapeng Xiong<sup>#</sup></text>, Dongjin Lee<sup>#</sup>, Le Li<sup>#</sup>, Qiuye Zhao<sup>#</sup>, Haiyuan Yu<sup>*</sup>.<br />
     <text class='text_bold'><i>Current Opinion in Structural Biology</i></text>, 2022, 72:219-225.
+  </li>
+</ul>
+
+## 2021
+
+<ul class='utlist'>
+  <li>
+    <a href='https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/pmic.202100145' target='_blank'><text class='text_title'>Progress in methodologies and quality-control strategies in protein cross-linking mass spectrometry.</text></a><br />
+    Kumar Yugandhar<sup>#</sup>, Qiuye Zhao<sup>#</sup>, Shobhita Gupta<sup>#</sup>, <text class='text_bold'>Dapeng Xiong<sup>#</sup></text>, Haiyuan Yu<sup>*</sup>.<br />
+    <text class='text_bold'><i>Proteomics</i></text>, 2021, 21:2100145.
   </li>
 </ul>
