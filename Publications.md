@@ -109,3 +109,29 @@ active: Publications
     <text class='text_bold'><i>Proteomics</i></text>, 2021, 21:2100145.
   </li>
 </ul>
+
+## 2020
+
+<ul class='utlist'>
+  <li>
+    <a href='https://link.springer.com/article/10.1186/s12859-020-03721-0' target='_blank'><text class='text_title'>LDNFSGB: prediction of long non-coding rna and disease association using network feature similarity and gradient boosting.</text></a><br />
+    Yuan Zhang<sup>#</sup>, Fei Ye<sup>#</sup>, <text class='text_bold'>Dapeng Xiong</text>, Xieping Gao<sup>*</sup>.<br />
+    <text class='text_bold'><i>BMC Bioinformatics</i></text>, 2020, 21: 377.
+  </li>
+</ul>
+
+## 2017
+
+<ul class='utlist'>
+  <li>
+    <a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/prot.25370' target='_blank'><text class='text_title'>Predicting the helix-helix interactions from correlated residue mutations.</text></a><br />
+    <text class='text_bold'>Dapeng Xiong<sup>#</sup></text>, Wenzhi Mao<sup>#</sup>, Haipeng Gong<sup>*</sup>.<br />
+    <text class='text_bold'><i>Proteins: Structure, Function and Bioinformatics</i></text>, 2017, 85(12): 2162-2169.
+  </li>
+
+  <li>
+    <a href='https://academic.oup.com/bioinformatics/article/33/17/2675/3791808?login=true' target='_blank'><text class='text_title'>A deep learning framework for improving long-range residue-residue contact prediction using a hierarchical strategy.</text></a><br />
+    <text class='text_bold'>Dapeng Xiong<sup>#</sup></text>, Jianyang Zeng<sup>*</sup>, Haipeng Gong<sup>*</sup>.<br />
+    <text class='text_bold'><i>Bioinformatics</i></text>, 2017, 33(17): 2675-2683.
+  </li>
+</ul>
