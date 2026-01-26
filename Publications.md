@@ -131,7 +131,7 @@ active: Publications
 
   <li>
     <a href='https://academic.oup.com/bioinformatics/article/33/17/2675/3791808?login=true' target='_blank'><text class='text_title'>A deep learning framework for improving long-range residue-residue contact prediction using a hierarchical strategy.</text></a><br />
-    <text class='text_bold'>Dapeng Xiong<sup>#</sup></text>, Jianyang Zeng<sup>*</sup>, Haipeng Gong<sup>*</sup>.<br />
+    <text class='text_bold'>Dapeng Xiong</text>, Jianyang Zeng<sup>*</sup>, Haipeng Gong<sup>*</sup>.<br />
     <text class='text_bold'><i>Bioinformatics</i></text>, 2017, 33(17): 2675-2683.
   </li>
 </ul>
