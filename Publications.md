@@ -1,0 +1,183 @@
+---
+layout: page
+title: 'publications'
+permalink: /publications/
+active: Publications
+---
+
+<style>
+  .page-content >.wrapper{
+    margin-top: -30px;
+  }
+  .p_title{
+    font-size:18px;
+    margin-bottom: 10px;
+  }
+</style>
+
+<p style="font-size: 20px; font-weight: bold;margin-bottom: 6px;">Welcome to join our lab, let's keep this list rolling together!</p>
+
+<p style="font-size: 16px; margin-bottom: 6px;"><sup>#</sup>: Equal Contribution, <sup>*</sup>: Corresponding Author</p>
+
+<p class='p_title'> 2026 </p>
+
+<ul class='utlist'>
+  <li>
+    <a href='https://www.sciencedirect.com/science/article/pii/S0031320325005953' target='_blank'><text class='text_title'>Improving mutation pathogenicity prediction of metal-binding sites in proteins with a panoramic attention mechanism.</text></a><br />
+    Yuan Zhang, Jiafeng Wu, Qiuye Zhao, Mingyuan Dong, Junsheng Deng, Xieping Gao, Kai Hu, <text class='text_bold'>Dapeng Xiong<sup>*</sup></text>.<br />
+   <text class='text_bold'><i>Pattern Recognition</i></text>, 2026, 169:1111935.
+  </li>
+</ul>
+
+<p class='p_title'> 2025 </p>
+<ul class='utlist'>
+  <li>
+    <a href='https://www.nature.com/articles/s41587-024-02428-4' target='_blank'><text class='text_title'>A structurally informed human protein–protein interactome reveals proteome-wide perturbations caused by disease mutations.</text></a><br />
+    <text class='text_bold'>Dapeng Xiong<sup>#</sup></text>, Yunguang Qiu<sup>#</sup>, Junfei Zhao<sup>#</sup>, Yadi Zhou<sup>#</sup>, Dongjin Lee<sup>#</sup>, Shobhita Gupta, Mateo Torres, Weiqiang Lu, Siqi Liang, Jin Joo Kang, Charis Eng, Joseph Loscalzo, Feixiong Cheng<sup>*</sup>, Haiyuan Yu<sup>*</sup>.<br />
+    <text class='text_bold'><i>Nature Biotechnology</i></text>, 2025, 43:1510-1524.
+  </li>
+  
+   <li>
+    <a href='https://www.sciencedirect.com/science/article/pii/S0893608025003557' target='_blank'><text class='text_title'>PILOT: Deep Siamese network with hybrid attention improves prediction of mutation impact on protein stability.</text></a><br />
+    Yuan Zhang, Junsheng Deng, Mingyuan Dong, Jiafeng Wu, Qiuye Zhao<sup>*</sup>, Xieping Gao<sup>*</sup>, <text class='text_bold'>Dapeng Xiong<sup>*</sup></text>.<br />
+   <text class='text_bold'><i>Neural Networks</i></text>, 2025, 188:107476.
+  </li>
+
+  <li>
+    <a href='https://link.springer.com/article/10.1186/s12859-025-06079-3' target='_blank'><text class='text_title'>PyPropel: a Python-based tool for efficiently processing and characterising protein data.</text></a><br />
+    Jianfeng Sun<sup>*</sup>, Jinlong Ru, Adam P. Cribbs, <text class='text_bold'>Dapeng Xiong<sup>*</sup></text>.<br />
+   <text class='text_bold'><i>BMC Bioinformatics</i></text>, 2025, 26:70.
+  </li>
+</ul>
+
+<p class='p_title'> 2024 </p>
+
+<ul class='utlist'>
+  <li>
+    <a href='https://www.nature.com/articles/s42003-024-07066-9' target='_blank'><text class='text_title'>Graph masked self-distillation learning for prediction of mutation impact on protein–protein interactions.</text></a><br />
+    Yuan Zhang, Mingyuan Dong, Junsheng Deng, Jiafeng Wu, Qiuye Zhao<sup>*</sup>, Xieping Gao<sup>*</sup>, <text class='text_bold'>Dapeng Xiong<sup>*</sup></text>.<br />
+    <text class='text_bold'><i>Communications Biology</i></text>, 2024, 7:1400.
+  </li>
+
+  <li>
+    <a href='https://link.springer.com/article/10.1007/s12539-024-00639-6' target='_blank'><text class='text_title'>PLMC: Language model of protein sequences enhances protein crystallization prediction.</text></a><br />
+    <text class='text_bold'>Dapeng Xiong<sup>*</sup></text>, Kaicheng U, Jianfeng Sun<sup>*</sup>, Adam P. Cribbs.<br />
+    <text class='text_bold'><i>Interdisciplinary Sciences: Computational Life Sciences</i></text>, 2024, 16:802-813.
+  </li>
+</ul>
+
+<p class='p_title'> 2023 </p>
+
+<ul class='utlist'>
+  <li>
+    <a href='https://www.sciencedirect.com/science/article/abs/pii/S0957417423009363' target='_blank'><text class='text_title'>Polyp segmentation with distraction separation.</text></a><br />
+    Tongtong Liu<sup>#</sup>, Xiongjun Ye<sup>#</sup>, Kai Hu, <text class='text_bold'>Dapeng Xiong</text>, Yuan Zhang<sup>*</sup>, Xuanya Li, Xieping Gao<sup>*</sup>.<br />
+    <text class='text_bold'><i>Expert Systems with Applications</i></text>, 2023, 228:120434.
+  </li>
+
+  <li>
+    <a href='https://www.sciencedirect.com/science/article/pii/S022352342300466X' target='_blank'><text class='text_title'>Small molecule-mediated targeting of microRNAs for drug discovery: Experiments, computational techniques, and disease implications.</text></a><br />
+    Jianfeng Sun<sup>#*</sup>, Miaoer Xu<sup>#</sup>, Jinlong Ru, Anna James-Bott, <text class='text_bold'>Dapeng Xiong</text>, Xia Wang<sup>*</sup>, Adam P Cribbs<sup>*</sup>.<br />
+    <text class='text_bold'><i>European Journal of Medicinal Chemistry</i></text>, 2023, 257:115500.
+  </li>
+
+  <li>
+    <a href='https://ieeexplore.ieee.org/abstract/document/10149315' target='_blank'><text class='text_title'>Boundary-guided and Region-aware Network with Global Scale-adaptive for Accurate Segmentation of Breast Tumors in Ultrasound Images.</text></a><br />
+    Kai Hu, Xiang Zhang, Dongjin Lee, <text class='text_bold'>Dapeng Xiong</text>, Yuan Zhang<sup>*</sup>, Xieping Gao<sup>*</sup>.<br />
+    <text class='text_bold'><i>IEEE Journal of Biomedical and Health Informatics</i></text>, 2023, 27(9):4421-4432.
+  </li>
+</ul>
+      
+<p class='p_title'> 2022 </p>
+
+<ul class='utlist'>
+  <li>
+    <a href='https://www.sciencedirect.com/science/article/abs/pii/S0957417422005139' target='_blank'><text class='text_title'>AS-Net: Attention Synergy Network for skin lesion segmentation.</text></a><br />
+    Kai Hu, Jing Lu, Dongjin Lee, <text class='text_bold'>Dapeng Xiong</text>, Zhineng Chen<sup>*</sup>.<br />
+    <text class='text_bold'><i>Expert Systems with Applications</i></text>, 2022, 201:117112.
+  </li>
+
+  <li>
+    <a href='https://www.sciencedirect.com/science/article/abs/pii/S0959440X22000021' target='_blank'><text class='text_title'>Deep learning methods for 3D structural proteome and interactome modeling.</text></a><br />
+    Dongjin Lee<sup>#</sup>, <text class='text_bold'>Dapeng Xiong<sup>#</sup></text>, Shayne Wierbowski<sup>#</sup>, Le Li<sup>#</sup>, Siqi Liang<sup>#</sup>, Haiyuan Yu<sup>*</sup>.<br />
+    <text class='text_bold'><i>Current Opinion in Structural Biology</i></text>, 2022, 73:102329.
+  </li>
+
+  <li>
+    <a href='https://www.sciencedirect.com/science/article/abs/pii/S0959440X21001615' target='_blank'><text class='text_title'>Implications of disease-related mutations at protein–protein interfaces.</text></a><br />
+    <text class='text_bold'>Dapeng Xiong<sup>#</sup></text>, Dongjin Lee<sup>#</sup>, Le Li<sup>#</sup>, Qiuye Zhao<sup>#</sup>, Haiyuan Yu<sup>*</sup>.<br />
+    <text class='text_bold'><i>Current Opinion in Structural Biology</i></text>, 2022, 72:219-225.
+  </li>
+</ul>
+
+<p class='p_title'> 2021 </p>
+
+<ul class='utlist'>
+  <li>
+    <a href='https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/pmic.202100145' target='_blank'><text class='text_title'>Progress in methodologies and quality-control strategies in protein cross-linking mass spectrometry.</text></a><br />
+    Kumar Yugandhar<sup>#</sup>, Qiuye Zhao<sup>#</sup>, Shobhita Gupta<sup>#</sup>, <text class='text_bold'>Dapeng Xiong<sup>#</sup></text>, Haiyuan Yu<sup>*</sup>.<br />
+    <text class='text_bold'><i>Proteomics</i></text>, 2021, 21:2100145.
+  </li>
+</ul>
+
+<p class='p_title'> 2020 </p>
+
+<ul class='utlist'>
+  <li>
+    <a href='https://link.springer.com/article/10.1186/s12859-020-03721-0' target='_blank'><text class='text_title'>LDNFSGB: prediction of long non-coding rna and disease association using network feature similarity and gradient boosting.</text></a><br />
+    Yuan Zhang<sup>#</sup>, Fei Ye<sup>#</sup>, <text class='text_bold'>Dapeng Xiong</text>, Xieping Gao<sup>*</sup>.<br />
+    <text class='text_bold'><i>BMC Bioinformatics</i></text>, 2020, 21: 377.
+  </li>
+</ul>
+
+<p class='p_title'> 2017 </p>
+
+<ul class='utlist'>
+  <li>
+    <a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/prot.25370' target='_blank'><text class='text_title'>Predicting the helix-helix interactions from correlated residue mutations.</text></a><br />
+    <text class='text_bold'>Dapeng Xiong<sup>#</sup></text>, Wenzhi Mao<sup>#</sup>, Haipeng Gong<sup>*</sup>.<br />
+    <text class='text_bold'><i>Proteins: Structure, Function and Bioinformatics</i></text>, 2017, 85(12): 2162-2169.
+  </li>
+
+  <li>
+    <a href='https://academic.oup.com/bioinformatics/article/33/17/2675/3791808?login=true' target='_blank'><text class='text_title'>A deep learning framework for improving long-range residue-residue contact prediction using a hierarchical strategy.</text></a><br />
+    <text class='text_bold'>Dapeng Xiong</text>, Jianyang Zeng<sup>*</sup>, Haipeng Gong<sup>*</sup>.<br />
+    <text class='text_bold'><i>Bioinformatics</i></text>, 2017, 33(17): 2675-2683.
+  </li>
+</ul>
+
+<p class='p_title'> 2015 </p>
+
+<ul class='utlist'>
+  <li>
+    <a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/prot.24806' target='_blank'><text class='text_title'>RBRIdent: an algorithm for improved identification of RNA-binding residues in proteins from primary sequences.</text></a><br />
+    <text class='text_bold'>Dapeng Xiong</text>, Jianyang Zeng, Haipeng Gong<sup>*</sup>.<br />
+    <text class='text_bold'><i>Proteins: Structure, Function and Bioinformatics</i></text>, 2015, 83(6): 1068-1077.
+  </li>
+</ul>
+
+<p class='p_title'> 2014 </p>
+
+<ul class='utlist'>
+  <li>
+    <a href='https://ieeexplore.ieee.org/abstract/document/6826556' target='_blank'><text class='text_title'>ProMT: effective human promoter prediction using markov chain model based on DNA structural properties.</text></a><br />
+    <text class='text_bold'>Dapeng Xiong</text>, Rongjie Liu, Fen Xiao, Xieping Gao<sup>*</sup>.<br />
+    <text class='text_bold'><i>IEEE Transactions on NanoBioscience</i></text>, 2014, 13(4): 374-383.
+  </li>
+</ul>
+
+<p class='p_title'> 2012 </p>
+
+<ul class='utlist'>
+  <li>
+    <a href='https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0043126' target='_blank'><text class='text_title'>Towards a better detection of horizontally transferred genes by combining unusual properties effectively.</text></a><br />
+    <text class='text_bold'>Dapeng Xiong</text>, Fen Xiao, Li Liu, Kai Hu, Yanping Tan, Shunmin He<sup>*</sup>, Xieping Gao<sup>*</sup>.<br />
+    <text class='text_bold'><i>PLoS ONE</i></text>, 2012, 7(8): e43126.
+  </li>
+
+  <li>
+    <a href='https://ieeexplore.ieee.org/abstract/document/6294744' target='_blank'><text class='text_title'>A novel image segmentation algorithm based on Hidden Markov Random Field model and Finite Mixture Model parameter estimation.</text></a><br />
+    Kai Hu<sup>*</sup>, Guangyu Tang, <text class='text_bold'>Dapeng Xiong</text>, Quan Qiu.<br />
+    <text class='text_bold'><i>Proceedings of the 2012 International Conference on Wavelet Analysis and Pattern Recognition</i></text>, Xian, July 15-17, 2012.
+  </li>
+</ul>
